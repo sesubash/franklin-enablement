@@ -1,9 +1,9 @@
-# Your Project's Title...
-Your project's description...
+# Project Franklin Enablement Code...
+Project Franklin Enablement Code...
 
 ## Environments
-- Preview: https://main--{repo}--{owner}.hlx.page/
-- Live: https://main--{repo}--{owner}.hlx.live/
+- Preview: https://main--franklin-enablement--sesubash.hlx.page/
+- Live: https://main--franklin-enablement--sesubash.hlx.page/live/
 
 ## Installation
 
