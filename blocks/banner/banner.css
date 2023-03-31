@@ -1,4 +1,19 @@
 .banner {
     background-color:cornsilk;
-    color: #333;
+    text-align: center;
+    position: relative;
+}
+
+.banner div > div:first-child{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
+.banner div > div:first-child h2{
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+    color:azure;
+    width: 100%;
+    margin: 0;
 }
