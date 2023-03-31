@@ -2,8 +2,8 @@
 Project Franklin Enablement Code...
 
 ## Environments
-- Preview: https://main--franklin-enablement--sesubash.hlx.page/
-- Live: https://main--franklin-enablement--sesubash.hlx.page/live/
+- Preview: https://day-1--franklin-enablement--sesubash.hlx.page/
+- Live: https://day-1--franklin-enablement--sesubash.hlx.page/live/
 
 ## Installation
 
