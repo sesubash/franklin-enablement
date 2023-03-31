@@ -1,3 +1,3 @@
 mountpoints:
-  /day1: https://drive.google.com/drive/u/3/folders/1HAXmcI4uyElrgxWjlwJz0VUzEnLhgG3C
-  /day2: https://drive.google.com/drive/u/3/folders/11MKjkfgcvuvRb_TXdMk1GLoFJsDQDeYW
+  # /day1: https://drive.google.com/drive/u/3/folders/1HAXmcI4uyElrgxWjlwJz0VUzEnLhgG3C
+  /: https://drive.google.com/drive/u/3/folders/11MKjkfgcvuvRb_TXdMk1GLoFJsDQDeYW
